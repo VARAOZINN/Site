@@ -1,7 +1,7 @@
 const express = require('express');
 const { Client, GatewayIntentBits } = require("discord.js");
 const app = express();
-const port = process.env.port || 443
+const port = process.env.port || 80
 const config = require('./config.js')
 
 //PEGANDO TODAS AS INTENTS
