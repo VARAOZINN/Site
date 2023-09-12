@@ -6,7 +6,7 @@ module.exports = {
         convite: 'https://discord.gg/HHHjUxXf'
     },
     bot: {
-        token: 'MTA2MjI0NTc4NjM4MzAyODI4NQ.G7To6G.RkiQZYYKAPuzdPr_vThtdh5YVivSL0OInSfTbo'
+        token: '.G7To6G.RkiQZYYKAPuzdPr_vThtdh5YVivSL0OInSfTbo'
     },
     pagina: {
         /*particulas que saem do mouse ao mexer*/
