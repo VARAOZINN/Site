@@ -8,7 +8,7 @@
     "start": "node ."
   },
 "engines": {
-"node": "18x"
+"node": "16.x"
 },
   "keywords": [],
   "author": "",
